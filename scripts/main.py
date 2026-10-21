@@ -10,7 +10,7 @@ import win32com.client
 
 # ===== 配置 =====
 
-TARGET_TIME = "23:50:00"
+TARGET_TIME = "02:57:00"  # 目标时间，格式为 HH:MM:SS
 MESSAGE = "继续"
 WINDOW_TITLE = "ChatGPT"
 
